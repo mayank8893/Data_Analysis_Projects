@@ -12,3 +12,7 @@ For this project I have explored the dataset from US SSA which contains informat
 Please see US Baby Names.ipynb for the Jupyter Notebook.
 
 ![Screenshot 2023-07-23 at 8 58 55 AM](https://github.com/mayank8893/US_Baby_Names_using_Python/assets/69361645/30846cd8-3290-49be-969f-5574691d3674)
+
+![Screenshot 2023-07-23 at 9 01 33 AM](https://github.com/mayank8893/US_Baby_Names_using_Python/assets/69361645/02401d59-a361-4083-bed3-87b5fd9caebd)
+
+![Screenshot 2023-07-23 at 9 01 54 AM](https://github.com/mayank8893/US_Baby_Names_using_Python/assets/69361645/d8f72326-967d-464c-b024-e7c3e4292d14)
