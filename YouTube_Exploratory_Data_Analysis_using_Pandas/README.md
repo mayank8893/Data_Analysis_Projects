@@ -17,8 +17,8 @@ Once the data was cleaned, I performed **exploratory data analysis (EDA)** and a
 
 
 
-<img width="522" alt="Screenshot 2023-07-31 at 10 28 00 AM" src="https://github.com/mayank8893/YouTube_Exploratory_Data_Analysis_using_Pandas/assets/69361645/3b3a0f8f-6f17-429d-8955-051b30903e0c">
-<img width="409" alt="Screenshot 2023-07-31 at 10 28 16 AM" src="https://github.com/mayank8893/YouTube_Exploratory_Data_Analysis_using_Pandas/assets/69361645/b1a0ff1a-aa33-4a66-8238-c02e8a6bb8dd">
-<img width="281" alt="Screenshot 2023-07-31 at 10 28 27 AM" src="https://github.com/mayank8893/YouTube_Exploratory_Data_Analysis_using_Pandas/assets/69361645/2957683c-808f-4c8f-93c4-3caba279b4c0">
-<img width="692" alt="Screenshot 2023-07-31 at 10 28 37 AM" src="https://github.com/mayank8893/YouTube_Exploratory_Data_Analysis_using_Pandas/assets/69361645/807076ba-11be-4530-8f52-0f4ed69fba03">
-<img width="392" alt="Screenshot 2023-07-31 at 10 28 48 AM" src="https://github.com/mayank8893/YouTube_Exploratory_Data_Analysis_using_Pandas/assets/69361645/d30fee37-e65a-4976-9c88-e291860c121c">
+<img width="635" alt="Screenshot 2023-08-05 at 8 26 17 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/82dd3ee4-b111-40b3-9958-77ae25d3fbda">
+
+<img width="459" alt="Screenshot 2023-08-05 at 8 26 43 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/9098a437-56ad-4314-997a-b12abbb7fd1b">
+<img width="594" alt="Screenshot 2023-08-05 at 8 26 56 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/c60753e5-5b82-4179-8597-3e50b4a65df0">
+<img width="316" alt="Screenshot 2023-08-05 at 8 27 13 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/03df08db-fab1-45bb-a2c7-4d0a16f90f52">
