@@ -9,6 +9,7 @@ In this project, I have explored time series data of technology stocks like Appl
 5. How much value do we put at risk by investing in a particular stock?
 6. How can we attempt to predict future stock behavior? (Predicting the closing stock price of AAPL.)
 
-   <img width="1005" alt="Screenshot 2023-08-03 at 11 53 45 AM" src="https://github.com/mayank8893/Stock_Data_Analysis/assets/69361645/2f22f01e-ef38-4cb0-a94d-f126d0c473d3">
-<img width="890" alt="Screenshot 2023-08-03 at 11 53 59 AM" src="https://github.com/mayank8893/Stock_Data_Analysis/assets/69361645/3436236c-52e0-49d3-a91b-54fad7e606bb">
-<img width="987" alt="Screenshot 2023-08-03 at 11 54 26 AM" src="https://github.com/mayank8893/Stock_Data_Analysis/assets/69361645/b5944a59-a88b-44de-8755-dc364235eb45">
+
+<img width="845" alt="Screenshot 2023-08-05 at 8 30 24 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/031cb5f6-c4e2-4ac3-bce1-8275a8716cb9">
+<img width="768" alt="Screenshot 2023-08-05 at 8 30 50 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/f207d8ba-22cf-4034-9b83-28d2b047659d">
+<img width="860" alt="Screenshot 2023-08-05 at 8 31 07 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/46e6f133-07bb-4717-b747-174373d07531">
