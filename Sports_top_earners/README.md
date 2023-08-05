@@ -12,6 +12,7 @@ Forbes publishes a list of top earning athletes each year. I have looked at the 
 8. Women in the list?
 9. Analysis of top three earners of all time.
 
-<img width="771" alt="Screenshot 2023-08-04 at 1 36 54 AM" src="https://github.com/mayank8893/Sports_top_earners/assets/69361645/7a160c1e-346c-48ff-a870-7d375b402b63">
-<img width="656" alt="Screenshot 2023-08-04 at 1 37 12 AM" src="https://github.com/mayank8893/Sports_top_earners/assets/69361645/c840372f-49bf-49af-b69e-cdbad7477e0d">
-<img width="646" alt="Screenshot 2023-08-04 at 1 37 32 AM" src="https://github.com/mayank8893/Sports_top_earners/assets/69361645/af449d7c-da4b-4050-acbc-005952eed0bc">
+
+<img width="621" alt="Screenshot 2023-08-05 at 8 32 05 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/526ced19-bd8d-4b15-ac73-50a8a4fdf72e">
+<img width="558" alt="Screenshot 2023-08-05 at 8 32 26 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/e6898a0d-869f-402c-b015-a51e39601277">
+<img width="548" alt="Screenshot 2023-08-05 at 8 32 36 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/b849cba2-559a-45fe-abb8-3a3cdcee82cb">
