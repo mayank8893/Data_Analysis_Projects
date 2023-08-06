@@ -18,6 +18,10 @@ I then loaded the data into **python and cleaned it** by checking for any null/n
 5. Grouped the months into seasons and plotted the average bill for each season.
 6. Finally made a prediction for our future bills using ARIMA.
 
-<img width="847" alt="Screenshot 2023-08-06 at 1 59 28 PM" src="https://github.com/mayank8893/Utility_Analysis/assets/69361645/4231fd09-3f79-44c1-85d2-3d88c4741d09">
-<img width="796" alt="Screenshot 2023-08-06 at 1 59 40 PM" src="https://github.com/mayank8893/Utility_Analysis/assets/69361645/f0a17294-f8ad-4402-a1f6-c5891a2226cf">
-<img width="567" alt="Screenshot 2023-08-06 at 1 59 50 PM" src="https://github.com/mayank8893/Utility_Analysis/assets/69361645/c9b00bb4-6fa1-4709-b243-a203951fe471">
+<img width="837" alt="Screenshot 2023-08-06 at 2 07 46 PM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/15920810-1fcc-4572-9267-487f1125c046">
+
+
+<img width="767" alt="Screenshot 2023-08-06 at 2 08 03 PM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/ae2343ad-217b-42e4-a326-aad4281fd2ea">
+
+
+<img width="561" alt="Screenshot 2023-08-06 at 2 08 14 PM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/379168fb-041e-43f9-a350-d2a4cf20b3eb">
