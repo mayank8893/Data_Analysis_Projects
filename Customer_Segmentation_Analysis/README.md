@@ -1,3 +1,7 @@
 # Customer_Segmentation_Analysis
 
 In this project we will explore a dataset of product sales in Brazil. The dataset has information about the geological location of sales, revenue distribution, customer distribution, delivery information, customer behavior and product popularity. I have performed data analysis to figure out regions with most orders, most revenue distribution, figure out if the orders were delivered early or late and the geological locations of the late deliveries. I have also done a timing analysis on orders to figure out popular times, days and months for customers. Based on the shopping habits of customers, I have divided them into six categories and finally I have plotted the most popular products. In addition to the analysis, I have also provided recommendations on each of these points for the business to grow itself.
+<img width="491" alt="Screenshot 2023-08-07 at 4 28 38 PM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/38457d06-188e-45fe-a45e-8e728b9059f7">
+<img width="562" alt="Screenshot 2023-08-07 at 4 28 52 PM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/150aacfd-3304-41a3-8cbb-c970e24d1183">
+<img width="451" alt="Screenshot 2023-08-07 at 4 29 03 PM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/56408c68-f0b9-4d72-bb10-e07ffe0a6956">
+<img width="841" alt="Screenshot 2023-08-07 at 4 29 34 PM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/01eeca90-5c10-45f0-98ce-0f91a36a2b22">
