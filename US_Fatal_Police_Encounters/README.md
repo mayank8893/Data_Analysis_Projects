@@ -8,7 +8,7 @@ In this project, I am looking at the dataset from Kaggle on Fatal US Police enco
 4. Are Police Shooting deaths increasing?
 5. Fatal Police encounters year over year for each race.
 6. Exploratory analysis on other factors of fatal encounters.
-7. City adistribution of fatal encounters.
+7. City distribution of fatal encounters.
 8. Race distribution of deaths inside these top cities.
 
 
