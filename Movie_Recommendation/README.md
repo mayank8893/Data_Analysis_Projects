@@ -12,4 +12,5 @@ Then I have designed a **movie recommendation engine**, where:
 
 So just plug in a movie and get a recommendation to watch your next movie tonight.
 
-<img width="740" alt="Screen Shot 2023-08-11 at 9 52 22 AM" src="https://github.com/mayank8893/Movie_Recommendation/assets/69361645/3ead70b6-f81a-4553-bf05-1e72f24a7ceb">
+
+<img width="585" alt="Screen Shot 2023-08-11 at 9 47 26 AM" src="https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/b2cad069-b679-49ad-a122-51f840121c82">
