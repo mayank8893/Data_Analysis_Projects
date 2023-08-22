@@ -13,4 +13,5 @@ In this project, I am looking at the dataset from Kaggle on Fatal US Police enco
 
 
 
-![ezgif-1-3a2e27a2c3](https://github.com/mayank8893/US_Fatal_Police_Encounters/assets/69361645/2f0603e8-edfd-4b40-bddf-bef3ec6b7f7a)
+
+![ezgif-1-3a2e27a2c3](https://github.com/mayank8893/Data_Analysis_Projects/assets/69361645/c25ede48-de9c-421d-9f08-6e782d5a46dd)
